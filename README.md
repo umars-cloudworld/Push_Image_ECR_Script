@@ -33,6 +33,8 @@
 <!-- GETTING STARTED -->
 ### Prerequisites
 
+* ECR Should be Created
+* Modify The Image name in the Script
 * Your docker daemon must be running
 * AWS CONFIGURE
 
